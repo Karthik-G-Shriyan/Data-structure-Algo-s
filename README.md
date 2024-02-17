@@ -1,2 +1,2 @@
 # Data-structure-Algo-s
-leetcode's questions repository
+leetcode's solved questions code repository
